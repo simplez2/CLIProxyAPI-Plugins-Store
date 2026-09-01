@@ -361,7 +361,7 @@
       "name": "Codex Agent Identity",
       "description": "Adds CPA-native support for Codex Agent Identity JWT and Personal Access Token credentials with encrypted sidecar storage, preview-first batch import, safe auth-file synchronization, and a Management-key-protected plugin route.",
       "author": "simplez2",
-      "version": "0.3.8",
+      "version": "0.3.9",
       "repository": "https://github.com/simplez2/cpa-codex-agent-identity",
       "logo": "https://raw.githubusercontent.com/simplez2/cpa-codex-agent-identity/main/assets/logo.svg",
       "homepage": "https://github.com/simplez2/cpa-codex-agent-identity",
